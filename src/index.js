@@ -5,12 +5,13 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 
 import LendingPage from './chapter_09/LendingPage';
+import AttendanceBook from './chaper_10/AttendanceBook';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
   <React.StrictMode>
-    <LendingPage />
+    <AttendanceBook />
   </React.StrictMode>
 );
 
