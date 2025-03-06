@@ -6,12 +6,13 @@ import reportWebVitals from './reportWebVitals';
 
 import LendingPage from './chapter_09/LendingPage';
 import AttendanceBook from './chaper_10/AttendanceBook';
+import SignUp from './chaper_11/SignUp';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
   <React.StrictMode>
-    <AttendanceBook />
+    <SignUp />
   </React.StrictMode>
 );
 
