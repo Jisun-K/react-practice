@@ -3,15 +3,13 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 
 import reportWebVitals from './reportWebVitals';
-
-import TodoItem from './test_01/TodoItem';
-import TodoList from './test_01/TodoList';
+import ConfirmButton from './chapter_08/ConfirmButton';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
   <React.StrictMode>
-    <TodoList />
+    <ConfirmButton />
   </React.StrictMode>
 );
 
