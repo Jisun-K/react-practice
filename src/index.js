@@ -5,8 +5,8 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 
 import LendingPage from './chapter_09/LendingPage';
-import AttendanceBook from './chaper_10/AttendanceBook';
-import SignUp from './chaper_11/SignUp';
+import AttendanceBook from './chapter_10/AttendanceBook';
+import SignUp from './chapter_11/SignUp';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
