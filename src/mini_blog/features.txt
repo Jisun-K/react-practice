@@ -1,0 +1,12 @@
+1. 글 목록 보기 기능(리스트 형태)  
+    - PostList, PostListItem
+2. 글 보기 기능
+    - Post
+3. 댓글 보기 기능
+    - CommentList, CommentListItem
+4. 글 작성 기능
+    - PostWrite
+5. 댓글 작성 기능
+    - CommentWrite
+
+Bottom up 방식으로 작은 거부터 구현
